@@ -1,0 +1,20 @@
+# Week 1: The CIA Triad
+
+**Course:** Google Cybersecurity Certificate (Coursera), Course 2
+**Result:** 100% on the CIA Triad module
+
+## What I learned
+The CIA Triad is the core model of information security:
+
+- **Confidentiality:** only authorized people can access the data.
+- **Integrity:** the data stays accurate and has not been changed without permission.
+- **Availability:** authorized users can access the data and systems when they need them.
+
+## Key takeaway
+Improving one part of the triad can weaken another. For example, strict MFA strengthens confidentiality, but it can reduce availability and usability for users.
+
+## Question I'm still thinking about
+How do security teams balance strict confidentiality with easy access for users when they design security policies?
+
+## Next step
+Keep studying the course and add real-world examples of these trade-offs to next week's notes.
